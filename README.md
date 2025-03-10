@@ -5,7 +5,7 @@
 ---
 
 ## 💚발표 자료💚
-- [📚Week1_전연주, 조승연]([https://github.com/Ewha-Euron/8th-Research/issues/6](https://github.com/user-attachments/files/19162917/Week1_ResNet.pdf))
+- [📚Week1_전연주, 조승연](https://github.com/user-attachments/files/19162917/Week1_ResNet.pdf)
 ---
 
 ## 💚우수 과제💚
