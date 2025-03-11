@@ -9,5 +9,5 @@
 ---
 
 ## 💚우수 과제💚
-- [🌟Week1_1_OOO]()
-- [🌟Week1_2_OOO]()
+- [🌟Week1_1_김지은](https://equatorial-chard-0cb.notion.site/Deep-residual-learning-for-image-recognition-1b1c71118dac80028e91f92326aa5c5d?pvs=4)
+- [🌟Week1_2_김나현](https://harmonious-tote-05a.notion.site/Deep-Residual-Learning-for-Image-Recognition-1ada815387948042bdbec905d8e71a03)
