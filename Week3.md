@@ -1,0 +1,2 @@
+개념 스터디: https://equatorial-chard-0cb.notion.site/Transformer-1b8c71118dac80e489c6d836eba2961b?pvs=4
+논문 리뷰: https://equatorial-chard-0cb.notion.site/Attention-is-All-You-Need-1b1c71118dac806695caf8cb7e20d2cc?pvs=4
