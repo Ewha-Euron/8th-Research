@@ -5,7 +5,7 @@
 ---
 
 ## 💚발표 자료💚
-- [📚Week2_정은채, 김나현](https://github.com/nuyhan55/8th-Research/blob/001b59c7806f742da16a5ce9c11898a2567b58fd/Week2_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C(Transformer).pdf)
+- [📚Week2_정은채, 김나현](https://github.com/nuyhan55/8th-Research/blob/369686ef39910016a8238401751b70117c757f0b/Week2_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C(Transformer).pdf)
 ---
 
 ## 💚우수 과제💚
