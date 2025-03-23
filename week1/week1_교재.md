@@ -1,1 +1,0 @@
-https://junggoldchae-coding.tistory.com/entry/🧠-ResNet-잔차-신경망
