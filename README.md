@@ -9,5 +9,8 @@
 ---
 
 ## 💚우수 과제💚
-- [🌟Week3_1_OOO]()
-- [🌟Week3_2_OOO]()
+#### 3주차 예습과제
+- [🌟Week3_1_]()
+#### 2주차 복습과제
+- [🌟Week2_2_김나현](https://github.com/nuyhan55/8th-Research/blob/c5b82f61866a13bc7a5a3f927ca53b0c46cd0666/Week2_%EB%B3%B5%EC%8A%B5%EA%B3%BC%EC%A0%9C_%EA%B9%80%EB%82%98%ED%98%84.ipynb)
+
