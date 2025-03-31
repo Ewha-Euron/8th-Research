@@ -5,7 +5,7 @@
 ---
 
 ## 💚발표 자료💚
-- [📚Week4_1_OOO]()
+- [📚Week4_1_전예지, 김효민](https://github.com/user-attachments/files/19537741/Research_week4_.pdf)
 ---
 
 ## 💚우수 과제💚
