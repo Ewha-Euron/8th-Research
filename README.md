@@ -9,5 +9,7 @@
 ---
 
 ## 💚우수 과제💚
-- [🌟Week4_1_OOO]()
-- [🌟Week4_2_OOO]()
+#### 4주차 예습과제
+- [🌟Week4_1_강민정](https://ionized-fortnight-fd6.notion.site/Playing-Atari-with-Deep-Reinforcement-Learning-1c399124e3fb8081a04de896238df608)
+#### 3주차 복습과제
+- [🌟Week3_2_전예지](https://github.com/yejiida/-Euron-8th_Research/blob/aa553e4b8cd47e239d7052fd5b8c10c4cb66ed26/Week3_%EB%B3%B5%EC%8A%B5%EA%B3%BC%EC%A0%9C.ipynb)
