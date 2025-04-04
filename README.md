@@ -1,13 +1,13 @@
 # 📁ARCHIVE - 2025/04/08
 
 ## 💚발제 논문💚  
-- [] []()
-- [] []()
+- [GM] [Denoising Diffusion Probabilistic Models](https://arxiv.org/pdf/2006.11239)
+- [Multi-Modal] [Learning Transferable Visual Models From Natural Language Supervision](https://arxiv.org/pdf/2103.00020)
 ---
 
 ## 💚발표 자료💚
-- [📚Week5_1_OOO]()
-- [📚Week5_2_OOO]()
+- [📚Week5_1_전연주]()
+- [📚Week5_2_정은채]()
 ---
 
 ## 💚우수 과제💚
@@ -15,3 +15,4 @@
 - [🌟Week5_1_OOO]()
 - [🌟Week5_2_OOO]()
 #### 4주차 복습과제
+- [🌟Week4_2_OOO]()
