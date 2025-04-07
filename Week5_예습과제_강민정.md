@@ -1,0 +1,2 @@
+- 논문 리뷰(Full): [Learning Transferable Visual Models From Natural Language Supervision](https://ionized-fortnight-fd6.notion.site/Learning-Transferable-Visual-Models-From-Natural-Language-Supervision-1cd99124e3fb80099779ca83ab9daf4a?pvs=4)
+- 논문 리뷰(Introduction): [Denoising Diffusion Probabilistic Models](https://ionized-fortnight-fd6.notion.site/Denoising-Diffusion-Probabilistic-Models-1ce99124e3fb806aa867cef20a1d7456?pvs=4)
