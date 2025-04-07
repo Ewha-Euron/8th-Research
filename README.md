@@ -7,7 +7,7 @@
 
 ## 💚발표 자료💚
 - [📚Week5_1_전연주](https://github.com/user-attachments/files/19634638/Week5_DDPM_.pdf)
-- [📚Week5_2_정은채]()
+- [📚Week5_2_정은채](https://github.com/user-attachments/files/19634651/clip_.pdf)
 ---
 
 ## 💚우수 과제💚
