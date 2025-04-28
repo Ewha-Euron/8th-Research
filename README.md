@@ -7,8 +7,10 @@ Language Understanding](https://arxiv.org/pdf/1810.04805)
 ---
 
 ## 💚발표 자료💚
-- [📚Week8_1_OOO]()
-- [📚Week8_2_OOO]()
+- [📚Week8_1_김지은](https://github.com/user-attachments/files/19940092/Research_ViT.pdf)
+- [📚Week8_2_김나현](https://github.com/user-attachments/files/19940098/Week8_BERT_.pdf)
+
+
 ---
 
 ## 💚우수 과제💚
