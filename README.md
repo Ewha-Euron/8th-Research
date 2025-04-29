@@ -15,7 +15,8 @@ Language Understanding](https://arxiv.org/pdf/1810.04805)
 
 ## 💚우수 과제💚
 #### 8주차 예습과제
-- [🌟Week8_1_OOO]()
-- [🌟Week8_2_OOO]()
+- [🌟Week8_1_전예지](https://github.com/yejiida/-Euron-8th_Research/blob/8a7c715ddde4e94545c4e1e0e00dd60d3258d7ee/%5BEuron%5D%208week_BERT%20_%20Pre-training%20of%20Deep%20Transformers%20for%20Language%20Understanding.pdf)
+- [🌟Week8_2_강민정](https://ionized-fortnight-fd6.notion.site/BERT-Pre-training-of-Deep-Bidirectional-Transformers-for-Language-Understanding-1e399124e3fb8087aec7cb44aef83ba3?pvs=4)
 #### 5주차 복습과제
-- [🌟Week5_3_OOO]()
+- [🌟Week5_3_김나현](https://github.com/nuyhan55/8th-Research/blob/ef46d954b1ffea32bbe5f589ca06c1b19e215399/Week5_%EB%B3%B5%EC%8A%B5%EA%B3%BC%EC%A0%9C_%EA%B9%80%EB%82%98%ED%98%84.ipynb)
+- [🌟Week5_4_강민정](https://github.com/minjeon99/8th-Research/blob/b233d79154e4ed45c5544719c596344fa8943694/Week5_%EB%B3%B5%EC%8A%B5%EA%B3%BC%EC%A0%9C_%EA%B0%95%EB%AF%BC%EC%A0%95.ipynb)
