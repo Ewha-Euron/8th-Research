@@ -7,8 +7,8 @@ by Generative Pre-Training](https://cdn.openai.com/research-covers/language-unsu
 ---
 
 ## 💚발표 자료💚
-- [📚Week9_1_ooo]()
-- [📚Week9_2_ooo]()
+- [📚Week9_1_강민정]()
+- [📚Week9_2_전예지]()
 
 
 ---
