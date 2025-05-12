@@ -1,0 +1,2 @@
+- Paper Review : [VAE](https://ionized-fortnight-fd6.notion.site/Auto-Encoding-Variational-Bayes-1ef99124e3fb806bb35add65cbaf5d89?pvs=4)
+- Introduction Review : [Rainbow](https://ionized-fortnight-fd6.notion.site/Rainbow-Combining-Improvements-in-Deep-Reinforcement-Learning-1f199124e3fb80dba1fbeba8550bf76d?pvs=4)
