@@ -1,8 +1,8 @@
 # 📁ARCHIVE - 2025/05/20
 
 ## 💚발제 논문💚  
-- [NLP] []()
-- [RL] []()
+- [CV] [Swin Transformer: Hierarchical Vision Transformer using Shifted Windows](https://arxiv.org/pdf/2103.14030)
+- [CV] [Masked Autoencoders Are Scalable Vision Learners](https://arxiv.org/pdf/2111.06377)
 ---
 
 ## 💚발표 자료💚
