@@ -6,8 +6,10 @@
 ---
 
 ## 💚발표 자료💚
-- [📚Week10_1_신유진]()
-- [📚Week10_2_김효민]()
+- [📚Week10_1_신유진](https://github.com/user-attachments/files/20209956/Week10_Rainbow.pdf)
+
+- [📚Week10_2_김효민](https://github.com/user-attachments/files/20209962/Week10_VAE.pdf)
+
 
 
 ---
