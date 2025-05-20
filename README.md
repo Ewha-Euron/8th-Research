@@ -7,7 +7,7 @@
 
 ## 💚발표 자료💚
 - [📚Week11_1_김나현](https://github.com/user-attachments/files/20300752/Week11_Swin.Transformer_.pdf)
-- [📚Week11_2_정은채](https://github.com/user-attachments/files/20300750/Week11_MAE_.pdf)
+- [📚Week11_2_정은채](https://github.com/user-attachments/files/20349613/Masked.Autoencoders.Are.Scalable.Vision.Learners_.pdf)
 
 
 
