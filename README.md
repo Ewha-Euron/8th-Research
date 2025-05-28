@@ -1,13 +1,13 @@
 # 📁ARCHIVE - 2025/06/03
 
 ## 💚발제 논문💚  
-- [] []()
-- [] []()
+- [CV] [You Only Look Once: Unified, Real-Time Object Detection](https://arxiv.org/pdf/1506.02640)
+- [GM] [Denoising Diffusion Implicit Models](https://arxiv.org/pdf/2010.02502)
 ---
 
 ## 💚발표 자료💚
-- [📚Week13_1_OOO]()
-- [📚Week13_2_OOO]()
+- [📚Week13_1_김지은]()
+- [📚Week13_2_전연주]()
 
 
 
